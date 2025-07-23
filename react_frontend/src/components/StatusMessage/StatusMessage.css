@@ -1,0 +1,7 @@
+.status-message {
+  font-size: 1.5rem;
+  margin: 20px 0;
+  color: var(--primary);
+  font-weight: bold;
+  text-align: center;
+}
